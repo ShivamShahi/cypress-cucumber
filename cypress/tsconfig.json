@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node16",
+    "types": ["cypress", "cypress-cucumber-preprocessor"]
+  },
+  "include": ["**/*.ts"]
+}
